@@ -38,7 +38,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-freelancer.git"
     },
     "dependencies": {
-        "bootstrap": "4.5.3"
+        "bootstrap": "4.5.3",
+        "startbootstrap-freelancer": "^6.0.5"
     },
     "devDependencies": {
         "autoprefixer": "10.0.1",
